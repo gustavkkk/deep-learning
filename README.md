@@ -5,3 +5,4 @@
 ### Feature Learning
 ### [Transfer Learning](https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab)
 If Deep Learning is the holy grail and data is the gate keeper, transfer learning is the key.
+### Ensemble Learning
