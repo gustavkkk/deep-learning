@@ -1,3 +1,6 @@
+# Deep Learning - Reveal the Mistery
+### [Universe Law - Bundle of Simples](https://www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/)
+### [Information Bottleneck](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
 # Deep Learning - Concise
 ### Deep Learning is nothing but Large Neural networks
 ### Size(Model) ∝ Size(Data) ∝ Complexity(Problem)
